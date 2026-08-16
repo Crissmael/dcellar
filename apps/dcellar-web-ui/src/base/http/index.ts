@@ -159,3 +159,4 @@ const del = ({ url, data, options, customOptions }: CustomRequestOptions) =>
 export { cancelAllRequest, cancelRequest, del, get, post, put, request };
 
 export default request;
+
